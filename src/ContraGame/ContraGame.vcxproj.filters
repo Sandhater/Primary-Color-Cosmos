@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{146b43ce-58cc-4a8a-b264-b41c88fd83de}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ContraGame.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ContraGame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ContraGame.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\START.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Grass.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Indicator.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Exit.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Help.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Start BackGround.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Back.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Help Background.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Hero.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Background1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Block.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Enemy.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Health.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Mana.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Container.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Items.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Continue.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Home.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Notice.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Pause Background.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Background2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Background3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Boss.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Fail Background.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Victory Background.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Introduce.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
